@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMovieApp/CustomTableViewClassTableViewCell.swift"
+            timestampString = "568935937.072722"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CustomTableViewClassTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMovieApp.CustomTableViewClassTableViewCell.movieImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MyMovieApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalvinsejour/Desktop/MyMovieApp/MyMovieApp/CustomTableViewClassTableViewCell.swift"
+                  timestampString = "568934411.9522851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMovieApp.CustomTableViewClassTableViewCell.movieImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MyMovieApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalvinsejour/Desktop/MyMovieApp/MyMovieApp/CustomTableViewClassTableViewCell.swift"
+                  timestampString = "568934411.954482"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMovieApp.CustomTableViewClassTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MyMovieApp.CustomTableViewClassTableViewCell"
+                  moduleName = "MyMovieApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalvinsejour/Desktop/MyMovieApp/MyMovieApp/CustomTableViewClassTableViewCell.swift"
+                  timestampString = "568934411.95669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMovieApp.CustomTableViewClassTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyMovieApp.CustomTableViewClassTableViewCell&gt;"
+                  moduleName = "MyMovieApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalvinsejour/Desktop/MyMovieApp/MyMovieApp/CustomTableViewClassTableViewCell.swift"
+                  timestampString = "568934411.95881"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMovieApp/ViewController.swift"
+            timestampString = "568935937.072818"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "tableView(_:heightForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
